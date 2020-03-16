@@ -1,0 +1,7 @@
+This project is trying to package 8 rules of SPC as a Class to use for trend analysis.
+requirments:
+python:3.6
+packages:
+    numpy
+    pandas
+    operator
